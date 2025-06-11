@@ -1,0 +1,32 @@
+#Tittle-Head {
+    text-align: center;
+}
+
+#Software {
+  padding-left: 560px;
+  align-items: center;
+  align-content: center;
+}
+
+#Model-Preview-UI {
+  padding-left: 75px;
+}
+
+video {
+  padding-left: 485px;
+}
+
+#Nav-Bar {
+  align-self: center;
+  text-align: center;
+}
+
+button {
+  border-radius: 20px;
+  box-shadow: 2px 2px 0px 0px;
+}
+
+footer {
+  background-image: url('https://img.freepik.com/free-photo/photo-ground-texture-pattern_58702-15891.jpg?semt=ais_hybrid&w=740');
+  color: azure;
+}
