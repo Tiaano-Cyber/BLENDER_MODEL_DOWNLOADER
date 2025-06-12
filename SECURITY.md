@@ -8,6 +8,8 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.0.x   | :x:                |
+| 1.5.x   | :White-Checked:    |
+|_________|____________________|
 
 ## Reporting a Vulnerability
 
